@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "A IA é mais usada para tarefas automáticas ou para criatividade ",
         alternativas: [
             "Alternativa 1",
             "Alternativa 2"
@@ -19,4 +19,25 @@ const perguntas = [
             "Alternativa 2"
         ]
     },
+    {
+        enunciado: "Pergunta 3",
+        alternativas: [
+            "Alternativa 1",
+            "Alternativa 2"
+        ]
+    },
+    {
+        enunciado: "Pergunta 4",
+        alternativas: [
+            "Alternativa 1",
+            "Alternativa 2"
+        ]
+    },
+    {
+        enunciado: "Pergunta 5",
+        alternativas: [
+            "Alternativa 1",
+            "Alternativa 2"
+        ]
+    }
 ]; 
